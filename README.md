@@ -122,6 +122,13 @@ hospital-management-system/
 │   └── schema.sql
 └── README.md
 
+###### Note: But I follow only simple project Structure for this mini project infuture i will built with spring mvc
+
+---
+## Future Tech Stack changes:
+- Add ui layer 
+- Spring mvc architecture pattern
+
 ---
 
 ## ✍️ Author
