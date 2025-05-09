@@ -11,7 +11,7 @@ A simple **Hospital Management System** built using **Core Java**, **JDBC**, and
   - Patients
   - Doctors
   - Appointments
-  - Bills
+  - Bills (Future optional feature)
 - Search patient or doctor by name or ID
 - Relational database using MySQL
 - Uses **JDBC** for database communication
