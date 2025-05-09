@@ -74,8 +74,9 @@ A simple **Hospital Management System** built using **Core Java**, **JDBC**, and
    git clone https://github.com/yourusername/hospital-management-system.git
    cd hospital-management-system
 
-  ```
+   ```
 ---
+
 ## 2 Setup MySQL Database
 
 - Create a database (e.g., hospital_db)
@@ -86,7 +87,8 @@ A simple **Hospital Management System** built using **Core Java**, **JDBC**, and
 
 ## 3 Update Database Credentials
 - In the Java file where JDBC connection is configured, update:
-```
+
+```java 
 String url = "jdbc:mysql://localhost:3306/hospital_db";
 String user = "root";
 String password = "yourpassword";
@@ -122,9 +124,14 @@ hospital-management-system/
 
 ---
 
-📜 License
+## ✍️ Author
+**Pavan Panche**
+GitHub: *@pavanpanche*
+
+---
+
+## 📜 License
 This project is open-source and available under the MIT License.
 
-
-
+---
 
